@@ -76,33 +76,3 @@ CREATE TABLE content
     id SERIAL PRIMARY KEY,
     content TEXT NOT NULL
 );
-
-SELECT DISTINCT
-    q.id as id,
-    a.penname as author_penname,
-    s.title as source_title,
-    c.content as content
-FROM
-    quote as q
-INNER JOIN content as c on q.content_id = c.id
-INNER JOIN author as a ON q.author_id = a.id
-INNER JOIN source as s ON q.source_id = s.id
-ORDER BY author_penname, source_title;
-
-SELECT
-    q.id AS quote_id,
-    a.penname AS author_name,
-    s.title AS source_title,
-    c.content AS quote_content
-FROM
-    quote q
-JOIN
-    content c ON q.content_id = c.id
-LEFT JOIN
-    author a ON q.author_id = a.id
-LEFT JOIN
-    source s ON q.source_id = s.id
-LEFT JOIN
-    source_author sa ON s.id = sa.source_id AND (q.author_id = sa.author_id OR q.author_id IS NULL)
-ORDER BY
-    author_name, source_title;
