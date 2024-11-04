@@ -1,0 +1,43 @@
+{
+    "name": "katheroine/quote",
+    "description": "Quote project DDD trials",
+    "type": "library",
+    "keywords": [
+        "quote",
+        "ddd"
+    ],
+    "license": "MIT",
+    "authors" : [
+        {
+            "name": "Katarzyna Krasińska",
+            "email": "katheroine@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.3"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.7",
+        "phpunit/phpunit": "^11.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Katheroine\\Quote\\": [
+                "src/"
+            ]
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Katheroine\\Quote\\": [
+                "tests/unit_tests/"
+            ]
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit ./tests",
+        "sniff": "vendor/bin/phpcs ./src ./tests",
+        "check": "composer test; composer sniff"
+	}
+}

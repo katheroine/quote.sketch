@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ruleset name="Katheroine_Quote">
+ <description>The coding standard for Quote.</description>
+
+ <file>./src</file>
+ <file>./tests</file>
+
+ <arg name="report" value="full"/>
+ <arg value="np"/>
+
+ <rule ref="PSR1"/>
+ <rule ref="PSR12"/>
+</ruleset>
