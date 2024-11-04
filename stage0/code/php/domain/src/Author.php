@@ -15,6 +15,7 @@ declare(strict_types=1);
 
  /**
   * Author of the Sources and Quotes.
+  * Entity.
   *
   * @package Quote
   * @author Katarzyna Krasińska <katheroine@gmail.com>

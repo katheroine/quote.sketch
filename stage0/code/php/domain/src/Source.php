@@ -15,6 +15,7 @@ declare(strict_types=1);
 
  /**
   * Source of the Quotes.
+  * Entity.
   *
   * @package Quote
   * @author Katarzyna Krasińska <katheroine@gmail.com>
@@ -24,4 +25,38 @@ declare(strict_types=1);
   */
 class Source
 {
+    /**
+     * Source's title.
+     * Not obligatory.
+     *
+     * @var string
+     */
+    public string $title;
+
+    /**
+     * Source's description.
+     * Not obligatory but only if title is defined.
+     * It is especially important for sources without title
+     * because in such cases, description allows to tell something about the specific source
+     * e.g. it was a spontaneous speech, a note or an social media post.
+     *
+     * @var string
+     */
+    public string $description;
+
+    /**
+     * Authors of the Source.
+     * Source can have none, one or many Authors.
+     */
+    public array $authors;
+
+    /**
+     * @param Author $author
+     *
+     * @return void
+     */
+    public function assignAuthor(Author $author)
+    {
+        $this->authors[] = $author;
+    }
 }
