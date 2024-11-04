@@ -1,0 +1,55 @@
+5	George Orwell	1984	Big Brother is watching you.
+38	Charles Dickens	A Tale of Two Cities	It was a bright cold day in April, and the clocks were striking thirteen.
+44	Lewis Carroll	Alice's Adventures in Wonderland	If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.
+27	Leo Tolstoy	Anna Karenina	All happy families are alike; each unhappy family is unhappy in its own way.
+8	Aldous Huxley	Brave New World	Words can be like X-rays if you use them properly -- they'll go through anything. You read and you're pierced.
+19	Fyodor Dostoevsky	Crime and Punishment	Pain and suffering are always inevitable for a large intelligence and a deep heart.
+11	Miguel de Cervantes	Don Quixote	Somewhere, something incredible is waiting to be known.
+42	Ray Bradbury	Fahrenheit 451	It was a pleasure to burn.
+35	Mary Shelley	Frankenstein	To live is the rarest thing in the world. Most people exist, that is all.
+50	Neil Gaiman	Good Omens	It may help to understand human affairs to be clear that most of the great triumphs and tragedies of history are caused, not by people being fundamentally good or fundamentally bad, but by people being fundamentally people.
+50	Terry Pratchett	Good Omens	It may help to understand human affairs to be clear that most of the great triumphs and tragedies of history are caused, not by people being fundamentally good or fundamentally bad, but by people being fundamentally people.
+14	William Shakespeare	Hamlet	To be, or not to be, that is the question.
+28	Joseph Conrad	Heart of Darkness	The horror! The horror!
+32	Charlotte Brontë	Jane Eyre	I would always rather be happy than dignified.
+34	Victor Hugo	Les Misérables	It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...
+18	Vladimir Nabokov	Lolita	Lolita, light of my life, fire of my loins. My sin, my soul.
+16	Gustave Flaubert	Madame Bovary	Madame Bovary, c'est moi.
+12	Herman Melville	Moby-Dick	Call me Ishmael.
+37	Ken Kesey	One Flew Over the Cuckoo's Nest	They're out there. Black boys in white suits up before me to commit sex acts in the hall and get it mopped up before I can catch them.
+2	Gabriel García Márquez	One Hundred Years of Solitude	Many years later, as he faced the firing squad, Colonel Aureliano Buendía was to remember that distant afternoon when his father took him to discover ice.
+6	Jane Austen	Pride and Prejudice	It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
+36	Paulo Coelho	The Alchemist	The Alchemist picked up a book that someone in the caravan had brought. Leafing through the pages, he found a story about Narcissus.
+20	Fyodor Dostoevsky	The Brothers Karamazov	Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others.
+3	J.D. Salinger	The Catcher in the Rye	Don't ever tell anybody anything. If you do, you start missing everybody.
+30	Alexandre Dumas	The Count of Monte Cristo	All human wisdom is contained in these two words - Wait and Hope.
+9	Anne Frank	The Diary of a Young Girl	I keep my ideals, because in spite of everything I still believe that people are really good at heart.
+17	Dante Alighieri	The Divine Comedy	In the middle of the journey of our life I found myself within a dark woods where the straight way was lost.
+26	John Steinbeck	The Grapes of Wrath	To the red country and part of the gray country of Oklahoma, the last rains came gently, and they did not cut the scarred earth.
+1	F. Scott Fitzgerald	The Great Gatsby	So we beat on, boats against the current, borne back ceaselessly into the past.
+49	Margaret Atwood	The Handmaid's Tale	Nolite te bastardes carborundorum.
+40	Douglas Adams	The Hitchhiker's Guide to the Galaxy	The Answer to the Great Question... Of Life, the Universe and Everything... Is... Forty-two,' said Deep Thought, with infinite majesty and calm.
+7	J.R.R. Tolkien	The Hobbit	In a hole in the ground there lived a hobbit.
+33	Homer	The Iliad	Rage - Goddess, sing the rage of Peleus' son Achilles.
+43	Hans Christian Andersen	The Little Mermaid	The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.
+10	Antoine de Saint-Exupéry	The Little Prince	All grown-ups were once children... but only few of them remember it.
+41	J.R.R. Tolkien	The Lord of the Rings	Three Rings for the Elven-kings under the sky, Seven for the Dwarf-lords in their halls of stone...
+39	Mikhail Bulgakov	The Master and Margarita	Manuscripts don't burn.
+23	Franz Kafka	The Metamorphosis	As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect.
+45	Umberto Eco	The Name of the Rose	In the name of the Father, the Son, and the Holy Ghost.
+15	Homer	The Odyssey	Sing, O muse, of the rage of Achilles, son of Peleus, that brought countless ills upon the Achaeans.
+29	Ernest Hemingway	The Old Man and the Sea	But man is not made for defeat. A man can be destroyed but not defeated.
+31	Oscar Wilde	The Picture of Dorian Gray	The only way to get rid of temptation is to yield to it.
+52	Douglas Preston	The Relic	Territories, as every male animal knows, are secured by shitting on them. Thats the way it worked in the Oligocene, and thats the way it works in the condominium association.
+52	Lincoln Child	The Relic	Territories, as every male animal knows, are secured by shitting on them. Thats the way it worked in the Oligocene, and thats the way it works in the condominium association.
+22	Albert Camus	The Stranger	Mother died today. Or maybe yesterday; I can't be sure.
+48	Murasaki Shikibu	The Tale of Genji	Real love isn't the kind that endures through long years of absence, but the kind that endures through long years of nearness.
+51	Peter Straub	The Talisman	Sunlight is a way of life in the Southwest. A casual visitor might easily conclude that it was for sale in the local supermarkets.
+51	Stephen King	The Talisman	Sunlight is a way of life in the Southwest. A casual visitor might easily conclude that it was for sale in the local supermarkets.
+25	Franz Kafka	The Trial	Someone must have slandered Josef K., for one morning, without having done anything truly wrong, he was arrested.
+47	Milan Kundera	The Unbearable Lightness of Being	The heaviest of burdens is therefore simultaneously an image of life's most intense fulfillment.
+46	Haruki Murakami	The Wind-Up Bird Chronicle	The moment one learns English, complications set in.
+4	Harper Lee	To Kill a Mockingbird	You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.
+24	James Joyce	Ulysses	Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed.
+13	Leo Tolstoy	War and Peace	All we can know is that we know nothing. And that's the height of human wisdom.
+21	Emily Brontë	Wuthering Heights	Whatever our souls are made of, his and mine are the same.
