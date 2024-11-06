@@ -30,5 +30,37 @@ class Author
      *
      * @var string
      */
-    public string $penname; // TODO Should the uniqueness be checked here and how if so?
+    public string $penname; // unique
+    /**
+     * @param string $penname
+     */
+    public function __construct(string $penname)
+    {
+        $this->validatePenname($penname);
+        $this->penname = $penname;
+    }
+
+    /**
+     * @return string
+     */
+    public function getPenname(): string
+    {
+        return $this->penname;
+    }
+
+    /**
+     * @param string $penname
+     *
+     * @return void
+     *
+     * @throws \InvalidArgumentException
+     */
+    private static function validatePenname(string $penname): void
+    {
+        if (empty($penname)) {
+            throw new \InvalidArgumentException(
+                'Penname cannot be empty.'
+            );
+        }
+    }
 }

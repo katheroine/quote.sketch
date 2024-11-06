@@ -11,7 +11,7 @@ declare(strict_types=1);
  * file that was distributed with this source code.
  */
 
- namespace Katheroine\Quote\Test\Unit;
+ namespace Katheroine\Quote\Test\Interface;
 
  use PHPUnit\Framework\TestCase;
 
@@ -22,18 +22,18 @@ declare(strict_types=1);
   * @license http://opensource.org/licenses/MIT MIT License
   * @link https://github.com/katheroine/quote.sketch
   */
-class AuthorTest extends TestCase
+class QuoteTest extends TestCase
 {
-    const AUTHOR_FULLY_QUALIFIED_CLASS_NAME = 'Katheroine\Quote\Author';
+    const QUOTE_FULLY_QUALIFIED_CLASS_NAME = 'Katheroine\Quote\Quote';
 
     /**
-     * Test if File class
+     * Test if Quote class
      * has been created.
      */
-    public function testAuthorClassExists()
+    public function testQuoteClassExists()
     {
         $this->assertTrue(
-            class_exists(self::AUTHOR_FULLY_QUALIFIED_CLASS_NAME)
+            class_exists(self::QUOTE_FULLY_QUALIFIED_CLASS_NAME)
         );
     }
 }
